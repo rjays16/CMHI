@@ -1,0 +1,1 @@
+ALTER TABLE `hiscainglet`.`seg_cf4_menstrual_history` DROP COLUMN `applicable_for_menstrual`; 
